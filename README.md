@@ -20,6 +20,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 
-
-https://github.com/user-attachments/assets/5c574e1a-469f-4b36-803b-777c39c34026
-
+### Demo
+https://youtu.be/Wx5bCMbDjcQ
